@@ -1,0 +1,7 @@
+{
+  "backbone": "resnet50",
+  "validation_macro_f1": 0.9513255235650356,
+  "trashnet_test_accuracy": 0.9421052631578948,
+  "trashnet_test_macro_f1": 0.9345788597627256,
+  "checkpoint": "e:\\wasteClassificationProject_FIXED\\wasteClassificationProject\\checkpoints\\resnet50_trashnet_best.pt"
+}

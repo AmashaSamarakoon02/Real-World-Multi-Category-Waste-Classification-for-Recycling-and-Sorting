@@ -1,0 +1,38 @@
+{
+  "cardboard": {
+    "n_correct_predictions": 228,
+    "mean_confidence": 0.9011742002085635,
+    "ci_95_lower": 0.8798017869131607,
+    "ci_95_upper": 0.921711414921702
+  },
+  "glass": {
+    "n_correct_predictions": 112,
+    "mean_confidence": 0.8888992068490812,
+    "ci_95_lower": 0.8574783381606851,
+    "ci_95_upper": 0.9171396970216718
+  },
+  "metal": {
+    "n_correct_predictions": 385,
+    "mean_confidence": 0.8878534421518252,
+    "ci_95_lower": 0.8732491987866241,
+    "ci_95_upper": 0.9016665076280569
+  },
+  "paper": {
+    "n_correct_predictions": 91,
+    "mean_confidence": 0.8479645131053505,
+    "ci_95_lower": 0.8147052513374077,
+    "ci_95_upper": 0.8785369717157804
+  },
+  "plastic": {
+    "n_correct_predictions": 237,
+    "mean_confidence": 0.8185269167403129,
+    "ci_95_lower": 0.791439420437511,
+    "ci_95_upper": 0.8432532926149006
+  },
+  "trash": {
+    "n_correct_predictions": 30,
+    "mean_confidence": 0.736808305978775,
+    "ci_95_lower": 0.667718290289243,
+    "ci_95_upper": 0.8014039427042008
+  }
+}

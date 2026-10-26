@@ -1,0 +1,7 @@
+{
+  "backbone": "mobilenet_v3_large",
+  "validation_macro_f1": 0.9471227711665763,
+  "trashnet_test_accuracy": 0.9631578947368421,
+  "trashnet_test_macro_f1": 0.958331330567785,
+  "checkpoint": "e:\\wasteClassificationProject_FIXED\\wasteClassificationProject\\checkpoints\\mobilenet_v3_large_trashnet_best.pt"
+}

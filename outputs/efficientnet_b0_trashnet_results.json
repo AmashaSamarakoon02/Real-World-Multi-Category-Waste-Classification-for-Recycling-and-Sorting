@@ -1,0 +1,7 @@
+{
+  "backbone": "efficientnet_b0",
+  "validation_macro_f1": 0.9412140328806996,
+  "trashnet_test_accuracy": 0.9473684210526315,
+  "trashnet_test_macro_f1": 0.9391431071100681,
+  "checkpoint": "e:\\wasteClassificationProject_FIXED\\wasteClassificationProject\\checkpoints\\efficientnet_b0_trashnet_best.pt"
+}

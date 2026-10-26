@@ -1,0 +1,18 @@
+{
+    "backbone": "resnet50",
+    "technique": "both",
+    "accuracy": 0.8248290373487638,
+    "macro_f1": 0.8230533734430696,
+    "checkpoint": "e:\\wasteClassificationProject_FIXED\\wasteClassificationProject\\checkpoints\\resnet50_dg_both_best.pt",
+    "classes": [
+        "Cardboard",
+        "Food Organics",
+        "Glass",
+        "Metal",
+        "Miscellaneous Trash",
+        "Paper",
+        "Plastic",
+        "Textile Trash",
+        "Vegetation"
+    ]
+}
